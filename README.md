@@ -4,13 +4,13 @@ Naive bayes and K nearest Neighbor algorithms implented from scratch using only 
 
 <h1>Features<h1>
   
-    Allows you to run a csv file and test the accuracy of each classifier by using cross-fold validation. 
+  <p>Allows you to run a csv file and test the accuracy of each classifier by using cross-fold validation. 
 
-    Accepts any numeric csv file with classes of either yes or no. You may also use the pima.csv and folds.csv files that I have given.
+  Accepts any numeric csv file with classes of either yes or no. You may also use the pima.csv and folds.csv files that I have given.
 
-    If you have your own csv file that meets the above criteria, the program can also create a new fold file with the name folds.csv.
+  If you have your own csv file that meets the above criteria, the program can also create a new fold file with the name folds.csv.
 
-    The main function is located in MyClassifier.java
+  The main function is located in MyClassifier.java<p>
   
   
  
