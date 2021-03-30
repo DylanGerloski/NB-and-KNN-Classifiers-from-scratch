@@ -2,7 +2,7 @@
 Naive bayes and K nearest Neighbor algorithms implented from scratch using only standard Java libraries.
 
 
-<h1>Features<h1>
+Features
   
 Allows you to run a csv file and test the accuracy of each classifier by using cross-fold validation. 
 
